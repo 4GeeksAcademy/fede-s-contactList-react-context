@@ -1,0 +1,16 @@
+.edit-icon {
+    color: blue;
+    cursor: pointer;
+
+}
+
+.delete-icon{
+    color: red;
+    cursor: pointer;
+}
+
+.tar{
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover;
+}
